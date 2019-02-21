@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: _LazyPig
+## Version: 1.00
+## Notes: UI Enhancements
+## Author: Ogrisch and mrmr, Flierr, steathy
+## SavedVariables: LPCONFIG, LPMULTIBOX
+
+LazyPig.xml
